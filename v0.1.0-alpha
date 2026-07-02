@@ -1,0 +1,38 @@
+DarCare-Elite-Theme/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── package.json
+│
+├── assets/
+│   ├── css/
+│   │   ├── core.css
+│   │   ├── variables.css
+│   │   ├── header.css
+│   │   ├── hero.css
+│   │   ├── product-card.css
+│   │   ├── footer.css
+│   │   └── animations.css
+│   │
+│   ├── js/
+│   │   ├── app.js
+│   │   ├── core.js
+│   │   ├── header.js
+│   │   ├── hero.js
+│   │   ├── cart.js
+│   │   ├── search.js
+│   │   └── utils.js
+│   │
+│   ├── fonts/
+│   └── images/
+│
+├── sections/
+│
+├── snippets/
+│
+├── templates/
+│
+├── config/
+│
+└── docs/
