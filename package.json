@@ -1,0 +1,11 @@
+{
+  "name": "darcare-elite-theme",
+  "version": "0.1.0",
+  "description": "Premium Theme for Zid",
+  "author": "DarCare",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
